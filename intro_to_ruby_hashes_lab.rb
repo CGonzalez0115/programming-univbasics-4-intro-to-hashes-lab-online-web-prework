@@ -57,6 +57,6 @@ def update_counting_hash(hash, key)
   }
 
   addition [:value] = "1"
-  
+
 end
 end
